@@ -1,9 +1,17 @@
 ### Welcome! ⚡
+<img src="styles.svg" width="800" height="200" alt="Click to see the source">
 <img src="wp2.gif" width="426" height="240" align="right"/>
 
 💻 *Front End Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
 ☕ *Maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)*<br/>
 📚 *Creator of [NIJIFANJI](http://www.nijifanji.com)*
+
+Hey there, I'm Dylan. Lots of my work is for private repositories so please do reach out if you're interested in those projects.
+
+🔑 Tech stacks 🔒
+
+ * Front End - <span class="red">test</span>
+
 
 Hey there, I'm Dylan. Here on my GitHub you'll find all my hobbyist projects that I develop. Almost none of my professional work is done here, so feel free to reach out directly if you're interested in that.
 
