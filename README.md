@@ -21,7 +21,7 @@ I generally work on logic-complex web applications, but am working on improving 
 
 <h3>🤝🏻 Connect 🤝🏾</h3>
 
-<a href="https://www.twitter.com/PriestismJP"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="14" height="14"> @PriestismJP</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dylan-bowers/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="14" height="14"> LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:dylan.volibowers@gmail.com">📧 Email</a>
+<a href="https://www.twitter.com/PriestismJP"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="14" height="14"> @PriestismJP</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dylan-bowers/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="14" height="14"> LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:dylan.volibowers@gmail.com">📧 dylanvolibowers@gmail.com</a>
 
 <b>Open to project ideas or freelance work in the following areas</b><br/>
 💚 Promotional site work, Path of Exile, World of Warcraft, Genshin Impact, Arknights, Anime (or related fields)<br/>
