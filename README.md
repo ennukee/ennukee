@@ -1,6 +1,5 @@
-### Welcome! ⚡
-<img src="styles.svg" width="800" height="200" alt="Click to see the source">
-<img src="wp2.gif" width="426" height="240" align="right"/>
+<h2>Welcome! ⚡</h2>
+<img src="wp2.gif" width="426" height="240" align="right" />
 
 💻 *Front End Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
 ☕ *Maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)*<br/>
@@ -8,11 +7,12 @@
 
 Hey there, I'm Dylan. Lots of my work is for private repositories so please do reach out if you're interested in those projects.
 
-🔑 Tech stacks 🔒
+<h3>🔑 Tech stacks 🔒</h3>
 
- * Front End - <span class="red">test</span>
+<b>Front End</b><br/>
+💚 React, TypeScript, CSS/Sass, Jest, Enzyme<br/>
+💛 Next.js, Emotion.js, Styled Components<br/>
 
-
-Hey there, I'm Dylan. Here on my GitHub you'll find all my hobbyist projects that I develop. Almost none of my professional work is done here, so feel free to reach out directly if you're interested in that.
-
-I primarily dabble in React (JS/TS), but you'll also find a lot of node scripts and some of my older Python scripts in here as well.
+<b>Back End / Dev Ops</b><br/>
+💚 Node, Python, Express, Git, Jenkins, Atlassian tools<br/>
+💛 Docker, Cypress, DigitalOcean
