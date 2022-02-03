@@ -2,7 +2,7 @@
 <img src="wp2.gif" width="426" height="240" align="right" />
 
 💻 *Front End Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
-☕ *Former maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)*<br/> (RIP)
+☕ *Former maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)*<br/>
 📚 *In progress of creating [NIJIFANJI](http://www.nijifanji.com)*
 
 Hey there, I'm Dylan. Lots of my work is for private repositories so please do reach out if you're interested in those projects.
