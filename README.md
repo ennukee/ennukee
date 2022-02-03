@@ -5,7 +5,7 @@
 ☕ *Former maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)* (RIP)<br/>
 📚 *In progress of creating [NIJIFANJI](http://www.nijifanji.com)*
 
-Hey there, I'm Dylan. Lots of my work is for private repositories so please do reach out if you're interested in those projects.
+[Hey there, I'm Dylan](https://dbowers.io/). Lots of my work is for private repositories so please do reach out if you're interested in those projects.
 
 I generally work on logic-complex web applications, but am working on improving my promotional site skills as well.
 
