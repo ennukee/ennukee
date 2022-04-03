@@ -3,7 +3,7 @@
 
 💻 *Software Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
 ☕ *Former maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)* (RIP)<br/>
-📚 *In progress of creating [NIJIFANJI](http://www.nijifanji.com)*
+📚 *Current side project: [NIJIFANJI](http://www.nijifanji.com)*
 
 [Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is for private repos so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
 
