@@ -7,7 +7,7 @@
 
 [Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is for private repos so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
 
-I generally work on logic-complex web applications, but am working on improving my promotional site skills as well.
+I generally work on the UI for logic-complex web applications, but am working on improving my promotional site skills as well.
 
 <h3>🔑 Tech stacks 🔒</h3>
 
