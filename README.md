@@ -1,7 +1,7 @@
 <h2>Welcome! ⚡</h2>
 <img src="wp2.gif" width="426" height="240" align="right" />
 
-💻 *Front End Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
+💻 *Software Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
 ☕ *Former maintainer of [BCScanlations](https://twitter.com/BCScanlations)'s [CatManga](http://catmanga.org)* (RIP)<br/>
 📚 *In progress of creating [NIJIFANJI](http://www.nijifanji.com)*
 
