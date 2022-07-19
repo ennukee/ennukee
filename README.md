@@ -1,7 +1,7 @@
 <h2>Welcome! ⚡</h2>
 <img src="wp2.gif" width="426" height="240" align="right" />
 
-💻 *Software Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
+💻 Former *Software Engineer for [Vestmark](https://www.vestmark.com/)*<br/>
 ☕ *Former maintainer of [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer) and [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
 📚 *Current side project: [NIJIFANJI](http://www.nijifanji.com)*
 
