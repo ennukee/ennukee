@@ -1,9 +1,10 @@
 <h2>Welcome! ⚡</h2>
 <img src="wp2.gif" width="426" height="240" align="right" />
 
-💻 *Software Engineer for (TBA)*<br/>
+💻 *Software Engineer for [Google Health](https://health.google/)*<br/>
 ☕ *Formerly: [Vestmark](https://www.vestmark.com/), [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
 📚 *Current side project: [NIJIFANJI](http://www.nijifanji.com)*
+📋 *Open to new side projects?*: Yes! ✅
 
 [Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is for private repos so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
 
