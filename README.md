@@ -13,7 +13,7 @@ I generally work on the UI for logic-complex web applications, but am working on
 <h3>🔑 Tech stacks 🔒</h3>
 
 <b>Front End</b><br/>
-💚 React, TypeScript, CSS/Sass, Jest, Enzyme<br/>
+💚 React, JavaScript, TypeScript, CSS, Sass, Jest<br/>
 💛 Next.js, Emotion.js, Styled Components<br/>
 
 <b>Back End / Dev Ops</b><br/>
