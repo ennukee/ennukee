@@ -18,7 +18,7 @@ I generally work on the UI for logic-complex web applications, but am working on
 
 <b>Back End / Dev Ops</b><br/>
 💚 Node, Python, Express, Git, Jenkins, Atlassian tools<br/>
-💛 Docker, Cypress, DigitalOcean
+💛 Docker, Cypress, DigitalOcean, Java
 
 <h3>🤝🏻 Connect 🤝🏾</h3>
 
