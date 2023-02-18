@@ -25,6 +25,6 @@ I generally work on the UI for logic-complex web applications, but am working on
 <a href="https://www.twitter.com/PriestismJP"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="14" height="14"> @PriestismJP</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dylan-bowers/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="14" height="14"> LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:dylan.volibowers@gmail.com">📧 dylanvolibowers@gmail.com</a>
 
 <b>Open to project ideas or freelance work in the following areas</b><br/>
-💚 Promotional sites, media-related, game-related (esp. PoE, WoW, Genshin Impact, Arknights, OSRS), and Japan-related<br/>
+💚 AI, Promotional sites, media-related, game-related (esp. Lost Ark, PoE, WoW, Genshin Impact, Arknights, OSRS), and Japan-related<br/>
 💛 Any other games, stats-related, medical-related<br/>
 ⛔ Anything handling financial or confidential information (full-time offers only)
