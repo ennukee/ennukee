@@ -3,7 +3,7 @@
 
 💻 *Software Engineer for [Google Health](https://health.google/)*<br/>
 ☕ *Formerly: [Vestmark](https://www.vestmark.com/), [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
-📚 *Current side project: (some projects not yet deployed!)*<br/>
+📚 *Current side project: [ai image showcase](https://dbowers.io/ai-showcase) & other unannounced*<br/>
 ✅ *Open to more side projects! DM me on Twitter!*
 
 [Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is internal proprietary software so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
