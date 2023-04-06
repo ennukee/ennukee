@@ -8,7 +8,7 @@
 
 [Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is internal proprietary software so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
 
-I generally work on the UI for logic-complex web applications, but am working on improving my promotional site skills as well.
+I normally work on the front end for logic-complex web applications, but am working on improving my skills for more visual and animation-heavy sites.
 
 <h3>🔑 Tech stacks 🔒</h3>
 
