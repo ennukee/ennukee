@@ -27,4 +27,3 @@ I normally work on the front end for logic-complex web applications, but am work
 <b>Open to project ideas or freelance work in the following areas</b><br/>
 💚 AI, Promotional sites, media-related, game-related (esp. Lost Ark, PoE, WoW, Genshin Impact, Arknights, OSRS), and Japan-related<br/>
 💛 Any other games, stats-related, medical-related<br/>
-⛔ Anything handling financial or confidential information (full-time offers only)
