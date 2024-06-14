@@ -1,13 +1,13 @@
 <h2>Welcome! ⚡</h2>
 <img src="wp2.gif" width="426" height="240" align="right" />
 
-💻 *Software Engineer for [Google Health](https://health.google/)*<br/>
-☕ *Formerly: [Vestmark](https://www.vestmark.com/), [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
+💻 *Software Engineer for [Google Quantum AI](https://quantumai.google/)*<br/>
+☕ *Formerly: [Google Health](https://health.google/), [Vestmark](https://www.vestmark.com/), [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
 ✅ *Open to more projects! DM me on Twitter or email me!*
 
 [Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is internal proprietary software so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
 
-I normally work on the front end for logic-complex web applications, but am working on improving my skills for more visual and animation-heavy sites.
+I normally work on the front end for data/logic-complex web applications, but am working on improving my skills for more visual and animation-heavy sites.
 
 <h3>🔑 Tech stacks 🔒</h3>
 
