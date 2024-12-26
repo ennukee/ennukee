@@ -1,19 +1,20 @@
 <h2>Welcome! ⚡</h2>
 <img src="wp2.gif" width="426" height="240" align="right" />
 
-💻 *Software Engineer for [Google Quantum AI](https://quantumai.google/)*<br/>
-☕ *Formerly: [Google Health](https://health.google/), [Vestmark](https://www.vestmark.com/), [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
-✅ *Open to more projects! DM me on Twitter or email me!*
+🏢 *Software Engineer for [Google Quantum AI](https://quantumai.google/)*<br/>
+☕ *Past Roles*: [Google Health](https://health.google/), [Vestmark](https://www.vestmark.com/)<br/>
+🛠️ *Community Efforts*: *[WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
+🌱 *If you have an interesting idea, feel free to reach out*
 
-[Hey there, I'm Dylan](https://dbowers.io/). Lots of my professional work is internal proprietary software so please do reach out if you're interested in those projects. Almost all of my side / passion projects are in public repos though.
+[Hey there, I'm Dylan](https://dbowers.io/). All of my professional work thus far is private proprietary software, so please understand that I can't disclose much about them. All of my personal projects are in one of my many public repos though.
 
-I normally work on the front end for data/logic-complex web applications, but am working on improving my skills for more visual and animation-heavy sites.
+My primary expertise is working on the front end for data/logic heavy web applications. I have dabled in more creative oriented works, just not professionally :).
 
 <h3>🔑 Tech stacks 🔒</h3>
 
 <b>Front End</b><br/>
-💚 React, JavaScript, TypeScript, CSS, Sass, Jest<br/>
-💛 Next.js, Emotion.js, Styled Components<br/>
+💚 React, Next.js, JavaScript, TypeScript, CSS, Sass, Jest<br/>
+💛 Emotion.js, Styled Components<br/>
 
 <b>Back End / Dev Ops</b><br/>
 💚 Node, Python, Express, Git, Jenkins, Atlassian tools<br/>
@@ -21,10 +22,10 @@ I normally work on the front end for data/logic-complex web applications, but am
 
 <h3>🤝🏻 Connect 🤝🏾</h3>
 
-* **Twitter**: <a href="https://www.twitter.com/PriestismJP">@PriestismJP</a>
 * **LinkedIn**: <a href="https://www.linkedin.com/in/dylan-bowers/">LinkedIn</a>
 * **Email**: <a href="mailto:dylan.volibowers@gmail.com">dylanvolibowers@gmail.com</a>
+* **Twitter**: <a href="https://www.twitter.com/PriestismJP">@PriestismJP</a>
+* **Discord**: ennukee 
 
-<b>Open to project ideas or freelance work in the following areas</b><br/>
-💚 AI, Promotional sites, media-related, game-related (esp. Lost Ark, PoE, WoW, Genshin Impact, Arknights, OSRS), and Japan-related<br/>
-💛 Any other games, stats-related, medical-related<br/>
+<b>Some areas of interest that particularly pique my interest</b><br/>
+🌟 Artificial intelligence, gaming and its industry, interactive animated media (VTubing, etc), media (video, imaging, streaming)<br/>
