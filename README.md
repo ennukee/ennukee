@@ -1,9 +1,9 @@
 <h2>Welcome! ⚡</h2>
 <img src="wp2.gif" width="426" height="240" align="right" />
 
-🏢 *Software Engineer for [Google Quantum AI](https://quantumai.google/)*<br/>
-☕ *Past Roles*: [Google Health](https://health.google/), [Vestmark](https://www.vestmark.com/)<br/>
-🛠️ *Community Efforts*: *[WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer), [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/)*<br/>
+🏢 **Software Engineer** for [Google Quantum AI](https://quantumai.google/)<br/>
+☕ **Past Roles**: [Google Health](https://health.google/), [Vestmark](https://www.vestmark.com/)<br/>
+🛠️ **Community Efforts**: [SwarmSync](https://swarmsync.app/) <sup>([Android](https://play.google.com/store/apps/details?id=com.vedal.ai.swarmsync)/[iOS](https://apps.apple.com/us/app/swarm-sync/id6749556809))</sup> *(Lead App Dev)* , [WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer) *(Contributor)*, [BCS](https://twitter.com/BCScanlations)'s [CatManga](https://www.reddit.com/r/KanojoOkarishimasu/comments/qs8d8k/catmanga_has_announced_its_shutdown_today_it_is/) *(Contributor)*<br/>
 🌱 *If you have an interesting idea, feel free to reach out*
 
 [Hey there, I'm Dylan](https://dbowers.io/). All of my professional work thus far is private proprietary software, so please understand that I can't disclose much about them. All of my personal projects are in one of my many public repos though.
