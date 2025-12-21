@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "npm run build-gh && npm run build-image",
+    "build-gh": "node ./scripts/gh.js && node ./scripts/organize-gh.js",
+    "build-image": "node scripts/render-profile.js"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^9.0.3",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.57.0"
+  }
+}
