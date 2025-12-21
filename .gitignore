@@ -1,5 +1,4 @@
 dev.html
 .env
 node_modules
-data/*
 data*.json

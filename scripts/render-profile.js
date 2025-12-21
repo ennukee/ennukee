@@ -10,7 +10,7 @@ const PORT = process.env.PORT ?? "4173";
 const BASE_URL = `http://127.0.0.1:${PORT}`;
 const ROUTE = process.env.SCREENSHOT_ROUTE ?? "/";
 
-const OUTPUT = process.env.OUTPUT_PATH ?? path.resolve(repoRoot, "profile.png");
+const OUTPUT = process.env.OUTPUT_PATH ?? path.resolve(repoRoot, "data/image/profile.png");
 
 const CLIP = {
   x: Number(process.env.CLIP_X ?? 0),

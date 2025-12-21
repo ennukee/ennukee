@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "build": "npm run build-gh && npm run build-image",
+    "build": "npm run build-gh && npm run build-image && node ./scripts/update_image_links.js",
     "build-gh": "node ./scripts/gh.js && node ./scripts/organize-gh.js",
     "build-image": "node scripts/render-profile.js"
   },
