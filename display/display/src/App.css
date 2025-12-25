@@ -69,13 +69,18 @@ pre {
   margin-right: 8px;
 }
 
+.hl1 {
+  flex: none;
+  width: 100px;
+}
+
+.hl2 {
+  margin-right: 40px;
+}
+
 .header-row.language-section {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
-}
-
-.header-row.language-section .header-line {
-  margin-right: 40px;
 }
 
 .language-stats-section {

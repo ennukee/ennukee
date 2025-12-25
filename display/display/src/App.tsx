@@ -1,67 +1,31 @@
 import ascii from './util/ascii';
 import './App.css'
 import data from './assets/data_ranked.json';
-
-const lines = [
-  ['ennukee'],
-  ['profession', 'full-stack software engineer'],
-  ['company', 'google quantum ai'],
-  ['past roles', 'google health ai, vestmark'],
-  [],
-  ['tech.stack.web', 'react, nextjs, vite, js, ts, css, sass'],
-  ['', 'emotionjs, styled components, react native'],
-  ['tech.stack.backend', 'nodejs, python, express/fastify, git'],
-  ['', 'jenkins, atlassian, docker, cypress'],
-  ['', 'digitalocean, java, kotlin'],
-  [],
-  ['interests', 'gaming, AI, digital culture, media,'],
-  ['', 'interactive animated media (vtubing, etc)'],
-  ['about'],
-  ['about me', 'hey there! i\'m dylan, a software engineer based in the'],
-  ['', 'united states. all of my professional work is for'],
-  ['', 'proprietary systems, so please understand i cannot'],
-  ['', 'disclose specifics. however, most of my personal'],
-  ['', 'projects are in public repos on github!'],
-  ['my work', 'i build all kinds of things, but professionally focus'],
-  ['', 'on data-heavy full stack web applications, utilizing'],
-  ['', 'primarily javascript web frameworks and a variety of'],
-  ['', 'backend tech stacks'],
-  ['contact'],
-  ['email', 'dylanvolibowers@gmail.com'],
-  ['linkedin', 'dylan-bowers'],
-  ['twitter', 'priestismjp'],
-  ['discord', 'ennukee'],
-]
-
-// dont ask
-const linesValueColors = [
-  -1,
-  0, 1, 0,
-  -1,
-  1, 1,
-  0, 0, 0,
-  -1,
-  1, 1,
-  -1,
-  0, 0, 0, 0, 0,
-  1, 1, 1, 1,
-  -1,
-  0, 1, 0, 1,
-]
+import { mainLines, mainLinesValueColors } from './util/mainLines';
+import { communityLines } from './util/communityLines';
 
 const lineLength = 65;
 const languageLineLength = 56;
 const languageLineEndingLength = 15;
 
-function App() {
+const spacify = (str: string, { left = true, right = true } = {}): string=> {
+  if (str.length === 1) {
+    return '\u00A0';
+  } else {
+    const leftSlice = left ? 1 : 0;
+    const rightSlice = right ? -1 : str.length;
+    return (left ? '\u00A0' : '') + str.slice(leftSlice, rightSlice) + (right ? '\u00A0' : '');
+  }
+}
 
+function App() {
   return (<>
     <div className="app-container">
       <div className="container">
         <pre>{ascii}</pre>
       </div>
       <div className="info">
-        {lines.map((line, index) => {
+        {mainLines.map((line, index) => {
           if (line.length === 0) {
             return <div key={index}>&nbsp;</div>;
           }
@@ -74,7 +38,7 @@ function App() {
               lineLength - (left?.length || 0) - (right?.length || 0)
             )
           );
-          spacing = '\u00A0' + spacing.slice(1, -1) + '\u00A0';
+          spacing = spacify(spacing);
 
           return (
             <div className={right ? '' : 'header-row'} key={index}>
@@ -83,7 +47,7 @@ function App() {
               {right ? (
                 <>
                   <span className="spacing">{spacing}</span>
-                  <span className={linesValueColors[index] === 0 ? 'value' : 'value2'}>{right}</span>
+                  <span className={mainLinesValueColors[index] === 0 ? 'value' : 'value2'}>{right}</span>
                 </>
               ) : (
                 <div className="header-line" />
@@ -96,37 +60,14 @@ function App() {
     <div className="language-stats-section">
       <div className="header-row language-section">
         <span className="header">language statistics in personal projects only</span>
-        <div className="header-line" />
+        <div className="header-line hl1" />
+        <span className="header">community (see below for links)</span>
+        <div className="header-line hl2" />
       </div>
       <div className="stats-container" style={{ display: 'flex', gap: '2rem' }}>
         <div className="stats-table">
-          {Object.entries(data).slice(0, 6).map(([language, stats], index) => {
-        const label = `#${index + 1}`;
-        const bytes = `${stats.bytes.toLocaleString()} bytes`;
-        const loc = `${stats.estimatedLoC.toLocaleString()} lines`;
-        const spacing1 = '·'.repeat(4 - label.length);
-        const spacing2 = '·'.repeat(Math.max(
-          0,
-          languageLineLength - (label.length + language.length + (4 - label.length)) - bytes.length - languageLineEndingLength,
-        ));
-        const spacing3 = '·'.repeat(Math.max(0, languageLineEndingLength - loc.length));
-        
-        return (
-          <div key={language} style={{ marginBottom: '0.5rem' }}>
-            <span className="label">{label}</span>
-            <span className="spacing">{spacing1}</span>
-            <span className="value">{language}</span>
-            <span className="spacing">{spacing2}</span>
-            <span className="value2">{bytes}</span>
-            <span className="spacing">{spacing3}</span>
-            <span className="value">{loc}</span>
-          </div>
-        );
-          })}
-        </div>
-        <div className="stats-table">
-          {Object.entries(data).slice(6, 12).map(([language, stats], index) => {
-            const label = `#${index + 7}`;
+          {Object.entries(data).slice(0, 5).map(([language, stats], index) => {
+            const label = `#${index + 1}`;
             const bytes = `${stats.bytes.toLocaleString()} bytes`;
             const loc = `${stats.estimatedLoC.toLocaleString()} lines`;
             const spacing1 = '·'.repeat(4 - label.length);
@@ -139,12 +80,48 @@ function App() {
             return (
               <div key={language} style={{ marginBottom: '0.5rem' }}>
                 <span className="label">{label}</span>
-                <span className="spacing">{spacing1}</span>
+                <span className="spacing">{spacify(spacing1)}</span>
                 <span className="value">{language}</span>
-                <span className="spacing">{spacing2}</span>
+                <span className="spacing">{spacify(spacing2)}</span>
                 <span className="value2">{bytes}</span>
-                <span className="spacing">{spacing3}</span>
+                <span className="spacing">{spacify(spacing3)}</span>
                 <span className="value">{loc}</span>
+              </div>
+            );
+          })}
+        </div>
+        <div className="community-efforts">
+          {communityLines.map((line, index) => {
+            // 56 total
+            // 11 for role column
+            // unknown for role column
+            // 11 for company column
+            const [company, project, role] = line;
+
+            const totalBudget = 56;
+            const roleSpacingBudget = 14;
+
+            const companyPostSpacing = '·'.repeat(
+              totalBudget - (company.length) - project.length - roleSpacingBudget
+            );
+            
+            const projectPostSpacing = '·'.repeat(Math.max(0, roleSpacingBudget - 12));
+
+            return (
+              <div key={index} style={{ marginBottom: '0.5rem' }}>
+                {company && (<>
+                  <span className="value">{company}</span>
+                </>)}
+                <span className="spacing">{spacify(companyPostSpacing, {
+                  right: !!project,
+                })}</span>
+                {project && (
+                  <span className="value2">{project}</span>
+                )}
+                <span className="spacing">{spacify(projectPostSpacing, {
+                  left: !!project,
+                })}</span>
+                <span className="label">{role}</span>
               </div>
             );
           })}
